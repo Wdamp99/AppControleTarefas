@@ -1,0 +1,17 @@
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\bin\Debug\net6.0-windows\ControleTarefas.exe
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\bin\Debug\net6.0-windows\ControleTarefas.deps.json
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\bin\Debug\net6.0-windows\ControleTarefas.runtimeconfig.json
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\bin\Debug\net6.0-windows\ControleTarefas.dll
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\bin\Debug\net6.0-windows\ControleTarefas.pdb
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.Form1.resources
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.csproj.GenerateResource.cache
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.AssemblyInfoInputs.cache
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.AssemblyInfo.cs
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.csproj.CoreCompileInputs.cache
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.dll
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\refint\ControleTarefas.dll
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.pdb
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.genruntimeconfig.cache
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ref\ControleTarefas.dll
+C:\Projetos\cSharp\ControleTarefas\ControleTarefas\obj\Debug\net6.0-windows\ControleTarefas.Properties.Resources.resources
